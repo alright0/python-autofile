@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.py]
+@="py_auto_file"
+ 
+[HKEY_CLASSES_ROOT\.py\ShellNew]
+"NullFile"=-
+ 
+[HKEY_CLASSES_ROOT\.py\ShellNew]
+"FileName"=""
+ 
+[HKEY_CLASSES_ROOT\py_auto_file]
+@="Python Document"
+ 
+[HKEY_CLASSES_ROOT\js_auto_file\DefaultIcon]
+@=hex(2):22,00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,\
+  00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,\
+  57,00,65,00,42,00,75,00,69,00,6c,00,64,00,65,00,72,00,20,00,32,00,30,00,31,\
+  00,31,00,5c,00,69,00,63,00,6f,00,6e,00,73,00,2e,00,64,00,6c,00,6c,00,22,00,\
+  2c,00,30,00,00,00
